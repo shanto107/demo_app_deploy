@@ -34,7 +34,7 @@ ALLOWED_HOSTS = [
     'testtttttt-kf9v.onrender.com',
     'ostad-batch-09-1-cwz9.onrender.com',
     '.onrender.com',
-
+    'https://to-do-app-demo-ypaa.onrender.com'
 ]
 
 # CSRF trusted origins for ngrok
@@ -44,6 +44,7 @@ CSRF_TRUSTED_ORIGINS = [
     'https://subclimatic-sherri-nonprovocatively.ngrok-free.dev',
     'http://localhost:8000',
     'http://127.0.0.1:8000',
+    'https://to-do-app-demo-ypaa.onrender.com'
 ]
 
 
