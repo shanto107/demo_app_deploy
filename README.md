@@ -13,6 +13,14 @@ A complete Todo web application built with Django, featuring a modern UI with Ta
 - ✅ Beautiful, responsive UI with Tailwind CSS
 - ✅ Django messages framework for user feedback
 
+## A short description of the Todo application
+- a Django Todo app which is able to do all the CRUD tasks
+
+## Instructions to run the project locally
+   python3 -m venv venv -> source venv/bin/activate -> pip install -r requirements.txt -> python manage.py runserver
+
+## The live deployed URL of the application
+   [live deployed app on render] (https://to-do-app-demo-ypaa.onrender.com)
 ## Tech Stack
 
 - **Backend**: Python + Django
